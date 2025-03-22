@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate with likeminded individuals
 - 📫 How to reach me DBrown@ConsultWithMeraki.com
-- 😄 Pronouns: $$$
 - ⚡ Fun fact: Im always a student
 
 <!---
